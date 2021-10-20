@@ -1,2 +1,2 @@
-# DIO-Bootcamp-Primeiro-Reposit-rio
-Primeiro desafio de Projeto sobre Git/GitHub
+# DIO-Bootcamp-Primeiro-Repositorio
+Repositório criado para o Desafio de Projeto sobre Git/GitHub
